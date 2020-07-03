@@ -29,6 +29,7 @@
     "rxjs": "^6.5.4"
   },
   "devDependencies": {
+    "@fluffy-spoon/substitute": "^1.144.0",
     "@nestjs/cli": "^7.0.0",
     "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^7.0.0",
@@ -63,6 +64,5 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  },
-  "test": {}
+  }
 }
